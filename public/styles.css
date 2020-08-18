@@ -6,7 +6,22 @@ body {
     color: #555;
 }
 
-h1 {
+.header {
+    position: relative;
+    background: #FF6F61;
+    margin-top: 0%;
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 500%;
+    text-align: center;
+    color: #fff;
+    line-height: 1.2;
+    box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+/* h1 {
     font-weight: 900;
     font-size: 500%;
     text-align: center;
@@ -16,17 +31,16 @@ h1 {
 }
 
 h1 span {
-    padding: 5px 15px;
+    padding: 5px 10px;
     background: #FF6F61;
-    /*#2ec2b0;*/
-}
+    } */
 
 .dictionary {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     margin: 4rem auto;
-    max-width: 90%;
+    max-width: 100%;
 }
 
 .dictionary>.term {
@@ -38,6 +52,7 @@ h1 span {
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
     background-color: #fff;
     transition: all 100ms ease-in-out;
+    box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
 
 .dictionary>.term>dt {
