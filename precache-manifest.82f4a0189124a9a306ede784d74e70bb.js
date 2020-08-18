@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5014cda58f86238fe5c581eece884bce",
+    "revision": "a863e84fe3559284b4e8f7876e247efc",
     "url": "/emojipedia-react/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/emojipedia-react/static/js/2.fb29f6a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1939d52b8583be5f5d66",
-    "url": "/emojipedia-react/static/js/main.8c3a8a85.chunk.js"
+    "revision": "e049e02e3c47a478f0e7",
+    "url": "/emojipedia-react/static/js/main.5334f28e.chunk.js"
   },
   {
     "revision": "cff94afb5184a437720a",
